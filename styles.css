@@ -1,0 +1,913 @@
+@media screen and (max-width: 600px) {
+  #leftsidebar {width: 200px; float: left;}
+  #main {margin-left: 216px;}
+
+  body {
+    background: #F6F7F9;
+  }
+
+  header {
+    color: #3563E9;
+    font-size: 34px;
+    font-weight: bold;
+  }
+
+  .mobilenav {
+    display: flex;
+    gap: 50%;
+    margin-top: 50px;
+    margin-left: 20px;
+  }
+
+  .mobilesearch {
+    display: flex;
+    gap: 50%;
+    margin-left: 40px;
+  }
+
+  .mobilesearchbox {
+    border: 1px solid gray;
+    box-shadow: 10px 10px 10px 10px #ECE5E5;
+    padding: 4px;
+    width: 587px;
+    border-radius: 6px;
+    background-color: none;
+  }
+
+  .mobilemenu {
+    box-shadow: 1px 1px 1px 1px #ECE5E5;
+  }
+  
+  .mobileitem1 {
+    background: #54A6FF;
+    margin-left: 20px;
+    border: 5px;
+    border-radius: 13px;
+    color: #fff;
+  }
+
+  .mobileitem1 h1 {
+    margin-left: 18px;
+    font-size: 34px;
+    font-weight: bold;
+  }
+
+  .mobileitem1 p {
+    margin-left: 18px;
+    font-weight: 500;
+  }
+
+  .mobileitem1 button {
+    height: 50px;
+    width: 145px;
+    background: #3563E9;
+    border: 2px solid #3563E9;
+    margin-left: 28px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 10px;
+  }
+
+  .mobileitem1 img {
+    margin-left: 70px;
+  }
+
+  .sectime {
+    margin-left: 40px;
+    margin-top: 35px;
+  }
+
+  .mobiletiming {
+    display: flex;
+    box-shadow: 10px 10px 5px 5px #ECE5E5;
+    gap: 30px;
+  }
+
+    .i1 {
+    font-weight: bold;
+    font-size: 29px;
+    margin-top: 5px;
+  }
+
+  .i2 {
+    border-right: 1px solid gray;
+  }
+
+  .i3 {
+    border-right: 1px solid gray;
+  }
+
+  .i4 {
+    border-right: 1px solid gray;
+ }
+
+ .btn1 {
+    margin-left: 50%;
+    height: 50px;
+    width: 45px;
+    background: #3563E9;
+    border: 2px solid #3563E9;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold; 
+    box-shadow: 5px 5px 5px 5px whitesmoke;
+ }
+ 
+   .sectime1 {
+    margin-left: 40px;
+  }
+
+  .mobiletiming1 {
+    display: flex;
+    box-shadow: 10px 10px 5px 10px #ECE5E5;
+    gap: 30px;
+  }
+
+    .i5 {
+    font-weight: bold;
+    font-size: 29px;
+  }
+
+  .i6 {
+    border-right: 1px solid gray;
+  }
+  .i7 {
+    border-right: 1px solid gray;
+  }
+  .i8 {
+    border-right: 1px solid gray;
+ }
+
+ .item2 {
+    display: flex;
+    margin-left: 40px;
+    color: gray;
+    font-size: 21px;
+ }
+
+ .a1 {
+    text-decoration: none;
+    margin-left: 300px;
+ }
+ .mobilesec3 {
+    display: flex;
+    margin-left: 40px;
+    gap: 15px;
+ }
+
+ .mobilesec3a {
+    box-shadow: 17px 17px 17px 17px #ECE5E5;
+    border-radius: 29px;
+    margin-top: 11px;
+ }
+
+ .mobilesec3a button {
+    height: 50px;
+    width: 145px;
+    background: #3563E9;
+    border: 2px solid #3563E9;
+    margin-left: 28px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-left: 28px;
+  }
+
+  .mobilesec3a h3 {
+    margin-left: 15px;
+  }
+
+  .mobilesec3a p {
+    margin-left: 15px;
+  }
+
+  .mobilesec3aimg {
+    margin-left: 346px;
+    vertical-align: top;
+  }
+
+  .mobileimgsport {
+    margin-left: 11px;
+  }
+
+  .img1 {
+    margin-left: 45px;
+    margin-top: 45px;
+    
+  }
+  .img1p {
+    color: gray;
+  }
+
+  .mobilep {
+    display: inline-block;
+    font-weight: bold;
+    margin-left: 40px;
+  }
+
+  .mobilesec3 {
+    display: flex;
+    margin-left: 40px;
+    gap: 15px;
+ }
+
+ .mobilesec3a {
+    box-shadow: 17px 17px 17px 17px #ECE5E5;
+    border-radius: 29px;
+    margin-top: 11px;
+ }
+
+ .mobilesec3a button {
+    height: 50px;
+    width: 145px;
+    background: #3563E9;
+    border: 2px solid #3563E9;
+    margin-left: 28px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-left: 28px;
+  }
+
+  .mobilesec3a h3 {
+    margin-left: 15px;
+    margin-bottom: 0px;
+  }
+
+  .mobilesec3a p {
+    margin-left: 15px;
+  }
+
+  .mobilesec3aimg {
+    margin-left: 346px;
+    vertical-align: top;
+  }
+
+  .mobileimgsport {
+    margin-left: 11px;
+  }
+
+  .img1 {
+    margin-left: 45px;
+    margin-top: 45px; 
+  }
+
+  .img1p {
+    color: gray;
+  }
+
+  .mobilep {
+    display: inline-block;
+    font-weight: bold;
+    margin-left: 40px;
+  }
+  
+  .mobiledash {
+    text-decoration: line-through;
+    color: gray;
+    font-weight: lighter;
+  }
+
+  h5 {
+    color: gray;
+    font-size: 21px;
+    font-weight: lighter;
+    margin-left: 40px;
+  }
+
+  .mobilecar1 {
+    box-shadow: 10px 10px 10px 10px #ECE5E5;
+    border-radius: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+  .mobilecar1 h3 {
+    margin-left: 14px;
+  }
+
+  .mobilecar1 p {
+    margin-left: 14px;
+  }
+
+  .mobilecar1 img {
+    margin-left: 15px;
+  }
+
+  .mobilecar1img {
+    display: inline-block;
+  }
+
+  .mobilecar1img1 {
+    margin-left: 120px;
+    margin-top: 20px;
+  }
+
+   .mobilecar1 button {
+    height: 50px;
+    width: 145px;
+    background: #3563E9;
+    border: 2px solid #3563E9;
+    margin-left: 28px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-left: 228px;
+    margin-top: 50px;
+   }
+
+   .showmore {
+    height: 50px;
+    width: 145px;
+    background: #3563E9;
+    border: 2px solid #3563E9;
+    margin-left: 188px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 10px;
+   }
+
+   .mobileshowmore {
+    display: flex;
+    gap: 22%;
+    margin-top: 24px;
+    justify-items: center;
+   }
+
+   .showmorep {
+    color: gray;
+    font-size: 24px;
+    font-weight: 400;
+   }
+
+   .mobileend1 h1 {
+    color: #3563E9;
+    font-size: 34px;
+    font-weight: bold;
+   }
+
+   .mobileend1 {
+    margin-left: 40px;
+   }
+
+   .mobileend1 p {
+    color: gray;
+    font-weight: lighter;
+   }
+
+   .mobilelastnav {
+    display: flex;
+    gap: 30%;
+    margin-left: 40px;
+   }
+
+   .n1 ul {
+    list-style: none;
+    color: gray;
+    font-weight: lighter;
+   }
+
+   .n1 ul li {
+    margin-top: 10px;
+   }
+
+   .mnavd1 h2 {
+    margin-left: 45px;
+   }
+
+    .n2 ul {
+    list-style: none;
+    color: gray;
+    font-weight: lighter;
+   }
+
+   .n2 ul li {
+    margin-top: 10px;
+   }
+
+   .mnavd3 h2 {
+    margin-left: 35px;
+   }
+
+    .n3 ul {
+    list-style: none;
+    color: gray;
+    font-weight: lighter;
+   }
+
+   .n3 ul li {
+    margin-top: 10px;
+   }
+
+   .mnavd3 {
+    margin-left: 40px;
+    margin-top: 20px;
+   }
+
+   .mobilefooter {
+   text-align: right;
+   margin-left: 40px;
+   }
+
+   .mobilefooter nav {
+    display: flex;
+    list-style: none;
+    gap: 50%;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 10px;
+   }
+
+   .mobile2022 {
+    margin-left: 40px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+   }
+
+   .desktopnav {
+    display: none;
+   }
+
+   .desksec3 {
+    display: none;
+   }
+
+   .deskitem2 {
+    display: none;
+   }
+
+   .desksec1 {
+    display: none;
+   }
+
+   .desktopitem1 {
+    display: none;
+   }
+
+   .deskshowmore {
+    display: none;
+   }
+
+   .desksec4 {
+    display: none;
+   }
+
+   .deskpage {
+    display: none;
+   }
+ }
+
+ @media screen and (min-width: 600px) {
+    .mobilenav {
+        display: none;
+    } 
+
+    .mobilepage {
+      display: none;
+    }
+
+    .mobileshowmore{
+      display: none;
+    }
+
+    .mobilesec4{
+      display: none;
+    }
+
+    .btn1 {
+      display: none;
+    }
+
+    .item2 {
+      display: none;
+    }
+
+    .mobilesearch {
+        display: none;
+    }
+
+    .sectime {
+      display: none;
+    }
+
+    .sectime1 {
+      display: none;
+    }
+
+    .mobilesec3{
+      display: none;
+    }
+
+    .mobileitem1 {
+        display: none;
+    }
+
+    .desktopnav {
+    display: flex;
+    gap: 10%;
+    margin-bottom: 0px;
+    }
+
+    .desktopsearchbar {
+        border: 1px solid #ECE5E5;
+    }
+
+    header {
+        border: 1px solid #ECE5E5;
+    }
+
+    .desktopitem1 {
+        display: flex;
+        margin-left: 80px;
+        gap: 30%;
+        margin-right: 80px;
+    }
+
+    .deskdiv1 {
+        background: #54A6FF;
+        border: 2px solid #54A6FF;
+        border-radius: 24px;
+        color: #fff;
+    }
+
+    .deskdiv1 h1 {
+        margin: 24px;
+        font-weight: bold;
+        font-size: 30px;
+    }
+
+    .deskdiv1 p {
+        margin-left: 24px;
+    }
+
+    .deskdiv1 button {
+    height: 50px;
+    width: 123px;
+    background: #3563E9;
+    border: 2px solid #3563E9;
+    margin-left: 28px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    }
+
+    .deskdiv1 img {
+      margin-left: 75px;
+      display: inline-block;
+    }
+
+      .deskdiv2 {
+        background: #3563E9;
+        border: 2px solid #3563E9;
+        border-radius: 24px;
+        color: #fff;
+    }
+
+    .deskdiv2 h1 {
+        margin: 24px;
+        font-weight: bold;
+        font-size: 30px;
+    }
+
+    .deskdiv2 p {
+        margin-left: 24px;
+    }
+
+    .deskdiv2 button {
+    height: 50px;
+    width: 123px;
+    background: #54A6FF;
+    border: 2px solid #54A6FF;
+    margin-left: 28px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    }
+
+    .deskdiv2 img {
+      margin-left: 75px;
+      display: inline-block;
+    }
+
+    .desksec1 {
+      margin-left: 40px;
+      margin-top: 40px;
+      margin-bottom: 20px;
+    }
+
+    .deskdivgeneral {
+      display: flex;
+      grid-row: 1fr 1fr 1fr;
+    }
+
+    .desk1 {
+      display: flex;
+    }
+
+    .desktime {
+    display: flex;
+    gap: 50px;
+    box-shadow: 10px 10px 10px 10px #ECE5E5;
+    margin-left: 34px;
+    border: 2px solid white;
+    border-radius: 5px;
+    }
+
+    .desk2 {
+      display: flex;
+      margin-left: 150px;
+    }
+
+    .desk3{
+    margin-left: 220px;
+    }
+
+    .dbutton1 {
+     height: 50px;
+    width: 45px;
+    background: #3563E9;
+    border: 2px solid #3563E9;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold; 
+    box-shadow: 5px 5px 5px 5px whitesmoke;
+    }
+
+    .desktime1 {
+      display: flex;
+      margin-left: 3px;
+      gap: 50px;
+      box-shadow: 10px 10px 10px 10px #ECE5E5;
+      margin-left: 34px;
+      border: 2px solid white;
+    border-radius: 5px;
+    }
+
+   .d2 {
+    border-right: 1px solid gray;
+  }
+
+  .d3 {
+    border-right: 1px solid gray;
+  }
+
+  .d4 {
+    border-right: 1px solid gray;
+ }
+
+  .d6 {
+    border-right: 1px solid gray;
+  }
+
+  .d7 {
+    border-right: 1px solid gray;
+  }
+
+  .d8 {
+    border-right: 1px solid gray;
+ }
+
+   .d1 {
+    font-weight: bold;
+    font-size: 19px;
+    margin-top: 5px;
+    margin-left: 21px;
+  }
+
+   .deskitem2 {
+    display: flex;
+    margin-left: 50px;
+    color: gray;
+    font-size: 21px;
+ }
+
+ .deska1 {
+    text-decoration: none;
+    margin-left: 1500px;
+ }
+
+ .deskitem2 h5 {
+  margin-left: 34px;
+ }
+
+  .desksec3 {
+    display: flex;
+    margin-left: 40px;
+    gap: 65px;
+    margin-bottom: 49px;
+    margin-top: 20px;
+ }
+
+.desksec3a {
+    box-shadow: 17px 17px 17px 17px #ECE5E5;
+    border-radius: 29px;
+    margin-top: 11px;
+ }
+
+ .desksec3a button {
+    height: 50px;
+    width: 145px;
+    background: #3563E9;
+    border: 2px solid #3563E9;
+    margin-left: 28px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-left: 98px;
+  }
+
+  .desksec3a h3 {
+    margin-left: 15px;
+    margin-bottom: 0px;
+  }
+
+  .desksec3a p {
+    margin-left: 15px;
+  }
+
+  .desksec3aimg {
+    margin-left: 346px;
+    vertical-align: top;
+  }
+
+    .img1p {
+    color: gray;
+  }
+    .img1 {
+    margin-left: 45px;
+    margin-top: 45px; 
+  }
+
+  .mobilep {
+    display: inline-block;
+    font-weight: bold;
+    margin-left: 40px;
+  }
+  
+  .mobiledash {
+    text-decoration: line-through;
+    color: gray;
+    font-weight: lighter;
+  }
+
+   h5 {
+    color: gray;
+    font-size: 21px;
+    font-weight: lighter;
+    margin-left: 40px;
+  }
+
+  .desksec4 {
+    margin-left: 40px;
+  }
+
+  .deskitem4 {
+    display: flex;
+    gap: 7%;
+  }
+
+   .deskimg1 {
+    margin-left: 45px;
+    margin-top: 45px; 
+    display: flex;
+    gap: 27px;
+  }
+
+    .showmore {
+    height: 50px;
+    width: 145px;
+    background: #3563E9;
+    border: 2px solid #3563E9;
+    margin-left: 848px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 10px;
+   }
+
+   .deskshowmore {
+    display: flex;
+    gap: 35%;
+    margin-top: 24px;
+    justify-items: center;
+   }
+
+   .showmorep {
+    color: gray;
+    font-size: 24px;
+    font-weight: 400;
+   }
+
+   .deskend1 h1 {
+    color: #3563E9;
+    font-size: 34px;
+    font-weight: bold;
+   }
+
+   .deskend1 {
+    margin-left: 40px;
+   }
+
+   .mobileend1 p {
+    color: gray;
+    font-weight: lighter;
+   }
+
+   .mobilelastnav {
+    display: flex;
+    gap: 30%;
+    margin-left: 40px;
+   }
+
+   .n1 ul {
+    list-style: none;
+    color: gray;
+    font-weight: lighter;
+   }
+
+   .n1 ul li {
+    margin-top: 10px;
+   }
+
+   .mnavd1 h2 {
+    margin-left: 45px;
+   }
+
+    .n2 ul {
+    list-style: none;
+    color: gray;
+    font-weight: lighter;
+   }
+
+   .n2 ul li {
+    margin-top: 10px;
+   }
+
+   .mnavd3 h2 {
+    margin-left: 35px;
+   }
+
+    .n3 ul {
+    list-style: none;
+    color: gray;
+    font-weight: lighter;
+   }
+
+   .n3 ul li {
+    margin-top: 10px;
+   }
+
+   .mnavd3 {
+    margin-left: 40px;
+    margin-top: 20px;
+   }
+
+   .mobilefooter {
+   text-align: right;
+   margin-left: 40px;
+   }
+
+   .navpandt li {
+    text-align: right;
+    list-style: none;
+   }
+
+   .mobile2022 {
+    margin-left: 40px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+   }
+
+   .footerline {
+    margin-left: 40px;
+    color: gray;
+   }
+
+   .navpandt {
+    display: flex;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 10px;
+   margin-left: 1320px;
+   gap: 90px;
+   }
+ }
