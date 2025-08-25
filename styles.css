@@ -786,42 +786,18 @@
     list-style: none;
   }
 
-  .n1 ul {
+  .n1 ul .n2 ul .n3 ul {
     list-style: none;
     color: gray;
     font-weight: lighter;
   }
 
-  .n1 ul li {
+  .n1 ul li .n2 ul li .n3 ul li {
     margin-top: 10px;
   }
 
-  .mnavd1 h2 {
+  .mnavd1 h2 .mnavd3 h2 {
     margin-left: 45px;
-  }
-
-  .n2 ul {
-    list-style: none;
-    color: gray;
-    font-weight: lighter;
-  }
-
-  .n2 ul li {
-    margin-top: 10px;
-  }
-
-  .mnavd3 h2 {
-    margin-left: 35px;
-  }
-
-  .n3 ul {
-    list-style: none;
-    color: gray;
-    font-weight: lighter;
-  }
-
-  .n3 ul li {
-    margin-top: 10px;
   }
 
   .mnavd3 {
