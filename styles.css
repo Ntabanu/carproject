@@ -182,7 +182,6 @@
   .img1 {
     margin-left: 45px;
     margin-top: 45px;
-
   }
 
   .img1p {
@@ -212,12 +211,10 @@
     font-weight: bold;
     margin-bottom: 30px;
     margin-top: 10px;
-    margin-left: 28px;
   }
 
   .mobilesec3a h3 {
     margin-left: 15px;
-    margin-bottom: 0px;
   }
 
   .mobiledash {
@@ -266,7 +263,6 @@
     width: 145px;
     background: #3563e9;
     border: 2px solid #3563e9;
-    margin-left: 28px;
     border-radius: 5px;
     color: #fff;
     font-weight: bold;
@@ -468,7 +464,6 @@
   .desktopnav {
     display: flex;
     gap: 10%;
-    margin-bottom: 0px;
   }
 
   .desktopsearchbar {
@@ -602,7 +597,6 @@
 
   .desktime1 {
     display: flex;
-    margin-left: 3px;
     gap: 50px;
     box-shadow: 10px 10px 10px 10px #ece5e5;
     margin-left: 34px;
@@ -683,7 +677,6 @@
     width: 145px;
     background: #3563e9;
     border: 2px solid #3563e9;
-    margin-left: 28px;
     border-radius: 5px;
     color: #fff;
     font-weight: bold;
@@ -694,7 +687,6 @@
 
   .desksec3a h3 {
     margin-left: 15px;
-    margin-bottom: 0px;
   }
 
   .desksec3a p {
@@ -863,4 +855,5 @@
     margin-left: 1320px;
     gap: 90px;
   }
+  
 }
