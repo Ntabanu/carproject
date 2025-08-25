@@ -1,6 +1,12 @@
 @media screen and (max-width: 600px) {
-  #leftsidebar {width: 200px; float: left;}
-  #main {margin-left: 216px;}
+  #leftsidebar {
+    width: 200px;
+    float: left;
+  }
+
+  #main {
+    margin-left: 216px;
+  }
 
   body {
     background: #F6F7F9;
@@ -37,7 +43,7 @@
   .mobilemenu {
     box-shadow: 1px 1px 1px 1px #ECE5E5;
   }
-  
+
   .mobileitem1 {
     background: #54A6FF;
     margin-left: 20px;
@@ -85,7 +91,7 @@
     gap: 30px;
   }
 
-    .i1 {
+  .i1 {
     font-weight: bold;
     font-size: 29px;
     margin-top: 5px;
@@ -101,9 +107,9 @@
 
   .i4 {
     border-right: 1px solid gray;
- }
+  }
 
- .btn1 {
+  .btn1 {
     margin-left: 50%;
     height: 50px;
     width: 45px;
@@ -111,11 +117,11 @@
     border: 2px solid #3563E9;
     border-radius: 5px;
     color: #fff;
-    font-weight: bold; 
+    font-weight: bold;
     box-shadow: 5px 5px 5px 5px whitesmoke;
- }
- 
-   .sectime1 {
+  }
+
+  .sectime1 {
     margin-left: 40px;
   }
 
@@ -125,7 +131,7 @@
     gap: 30px;
   }
 
-    .i5 {
+  .i5 {
     font-weight: bold;
     font-size: 29px;
   }
@@ -133,37 +139,40 @@
   .i6 {
     border-right: 1px solid gray;
   }
+
   .i7 {
     border-right: 1px solid gray;
   }
+
   .i8 {
     border-right: 1px solid gray;
- }
+  }
 
- .item2 {
+  .item2 {
     display: flex;
     margin-left: 40px;
     color: gray;
     font-size: 21px;
- }
+  }
 
- .a1 {
+  .a1 {
     text-decoration: none;
     margin-left: 300px;
- }
- .mobilesec3 {
+  }
+
+  .mobilesec3 {
     display: flex;
     margin-left: 40px;
     gap: 15px;
- }
+  }
 
- .mobilesec3a {
+  .mobilesec3a {
     box-shadow: 17px 17px 17px 17px #ECE5E5;
     border-radius: 29px;
     margin-top: 11px;
- }
+  }
 
- .mobilesec3a button {
+  .mobilesec3a button {
     height: 50px;
     width: 145px;
     background: #3563E9;
@@ -197,8 +206,9 @@
   .img1 {
     margin-left: 45px;
     margin-top: 45px;
-    
+
   }
+
   .img1p {
     color: gray;
   }
@@ -213,15 +223,15 @@
     display: flex;
     margin-left: 40px;
     gap: 15px;
- }
+  }
 
- .mobilesec3a {
+  .mobilesec3a {
     box-shadow: 17px 17px 17px 17px #ECE5E5;
     border-radius: 29px;
     margin-top: 11px;
- }
+  }
 
- .mobilesec3a button {
+  .mobilesec3a button {
     height: 50px;
     width: 145px;
     background: #3563E9;
@@ -255,7 +265,7 @@
 
   .img1 {
     margin-left: 45px;
-    margin-top: 45px; 
+    margin-top: 45px;
   }
 
   .img1p {
@@ -267,7 +277,7 @@
     font-weight: bold;
     margin-left: 40px;
   }
-  
+
   .mobiledash {
     text-decoration: line-through;
     color: gray;
@@ -309,7 +319,7 @@
     margin-top: 20px;
   }
 
-   .mobilecar1 button {
+  .mobilecar1 button {
     height: 50px;
     width: 145px;
     background: #3563E9;
@@ -322,9 +332,9 @@
     margin-top: 10px;
     margin-left: 228px;
     margin-top: 50px;
-   }
+  }
 
-   .showmore {
+  .showmore {
     height: 50px;
     width: 145px;
     background: #3563E9;
@@ -335,223 +345,223 @@
     font-weight: bold;
     margin-bottom: 30px;
     margin-top: 10px;
-   }
+  }
 
-   .mobileshowmore {
+  .mobileshowmore {
     display: flex;
     gap: 22%;
     margin-top: 24px;
     justify-items: center;
-   }
+  }
 
-   .showmorep {
+  .showmorep {
     color: gray;
     font-size: 24px;
     font-weight: 400;
-   }
+  }
 
-   .mobileend1 h1 {
+  .mobileend1 h1 {
     color: #3563E9;
     font-size: 34px;
     font-weight: bold;
-   }
+  }
 
-   .mobileend1 {
+  .mobileend1 {
     margin-left: 40px;
-   }
+  }
 
-   .mobileend1 p {
+  .mobileend1 p {
     color: gray;
     font-weight: lighter;
-   }
+  }
 
-   .mobilelastnav {
+  .mobilelastnav {
     display: flex;
     gap: 30%;
     margin-left: 40px;
-   }
+  }
 
-   .n1 ul {
+  .n1 ul {
     list-style: none;
     color: gray;
     font-weight: lighter;
-   }
+  }
 
-   .n1 ul li {
+  .n1 ul li {
     margin-top: 10px;
-   }
+  }
 
-   .mnavd1 h2 {
+  .mnavd1 h2 {
     margin-left: 45px;
-   }
+  }
 
-    .n2 ul {
+  .n2 ul {
     list-style: none;
     color: gray;
     font-weight: lighter;
-   }
+  }
 
-   .n2 ul li {
+  .n2 ul li {
     margin-top: 10px;
-   }
+  }
 
-   .mnavd3 h2 {
+  .mnavd3 h2 {
     margin-left: 35px;
-   }
+  }
 
-    .n3 ul {
+  .n3 ul {
     list-style: none;
     color: gray;
     font-weight: lighter;
-   }
+  }
 
-   .n3 ul li {
+  .n3 ul li {
     margin-top: 10px;
-   }
+  }
 
-   .mnavd3 {
+  .mnavd3 {
     margin-left: 40px;
     margin-top: 20px;
-   }
+  }
 
-   .mobilefooter {
-   text-align: right;
-   margin-left: 40px;
-   }
+  .mobilefooter {
+    text-align: right;
+    margin-left: 40px;
+  }
 
-   .mobilefooter nav {
+  .mobilefooter nav {
     display: flex;
     list-style: none;
     gap: 50%;
     font-weight: bold;
     margin-bottom: 20px;
     margin-top: 10px;
-   }
+  }
 
-   .mobile2022 {
+  .mobile2022 {
     margin-left: 40px;
     margin-bottom: 20px;
     font-weight: bold;
     margin-top: 10px;
-   }
+  }
 
-   .desktopnav {
+  .desktopnav {
     display: none;
-   }
+  }
 
-   .desksec3 {
+  .desksec3 {
     display: none;
-   }
+  }
 
-   .deskitem2 {
+  .deskitem2 {
     display: none;
-   }
+  }
 
-   .desksec1 {
+  .desksec1 {
     display: none;
-   }
+  }
 
-   .desktopitem1 {
+  .desktopitem1 {
     display: none;
-   }
+  }
 
-   .deskshowmore {
+  .deskshowmore {
     display: none;
-   }
+  }
 
-   .desksec4 {
+  .desksec4 {
     display: none;
-   }
+  }
 
-   .deskpage {
+  .deskpage {
     display: none;
-   }
- }
+  }
+}
 
- @media screen and (min-width: 600px) {
-    .mobilenav {
-        display: none;
-    } 
+@media screen and (min-width: 600px) {
+  .mobilenav {
+    display: none;
+  }
 
-    .mobilepage {
-      display: none;
-    }
+  .mobilepage {
+    display: none;
+  }
 
-    .mobileshowmore{
-      display: none;
-    }
+  .mobileshowmore {
+    display: none;
+  }
 
-    .mobilesec4{
-      display: none;
-    }
+  .mobilesec4 {
+    display: none;
+  }
 
-    .btn1 {
-      display: none;
-    }
+  .btn1 {
+    display: none;
+  }
 
-    .item2 {
-      display: none;
-    }
+  .item2 {
+    display: none;
+  }
 
-    .mobilesearch {
-        display: none;
-    }
+  .mobilesearch {
+    display: none;
+  }
 
-    .sectime {
-      display: none;
-    }
+  .sectime {
+    display: none;
+  }
 
-    .sectime1 {
-      display: none;
-    }
+  .sectime1 {
+    display: none;
+  }
 
-    .mobilesec3{
-      display: none;
-    }
+  .mobilesec3 {
+    display: none;
+  }
 
-    .mobileitem1 {
-        display: none;
-    }
+  .mobileitem1 {
+    display: none;
+  }
 
-    .desktopnav {
+  .desktopnav {
     display: flex;
     gap: 10%;
     margin-bottom: 0px;
-    }
+  }
 
-    .desktopsearchbar {
-        border: 1px solid #ECE5E5;
-    }
+  .desktopsearchbar {
+    border: 1px solid #ECE5E5;
+  }
 
-    header {
-        border: 1px solid #ECE5E5;
-    }
+  header {
+    border: 1px solid #ECE5E5;
+  }
 
-    .desktopitem1 {
-        display: flex;
-        margin-left: 80px;
-        gap: 30%;
-        margin-right: 80px;
-    }
+  .desktopitem1 {
+    display: flex;
+    margin-left: 80px;
+    gap: 30%;
+    margin-right: 80px;
+  }
 
-    .deskdiv1 {
-        background: #54A6FF;
-        border: 2px solid #54A6FF;
-        border-radius: 24px;
-        color: #fff;
-    }
+  .deskdiv1 {
+    background: #54A6FF;
+    border: 2px solid #54A6FF;
+    border-radius: 24px;
+    color: #fff;
+  }
 
-    .deskdiv1 h1 {
-        margin: 24px;
-        font-weight: bold;
-        font-size: 30px;
-    }
+  .deskdiv1 h1 {
+    margin: 24px;
+    font-weight: bold;
+    font-size: 30px;
+  }
 
-    .deskdiv1 p {
-        margin-left: 24px;
-    }
+  .deskdiv1 p {
+    margin-left: 24px;
+  }
 
-    .deskdiv1 button {
+  .deskdiv1 button {
     height: 50px;
     width: 123px;
     background: #3563E9;
@@ -562,31 +572,31 @@
     font-weight: bold;
     margin-bottom: 30px;
     margin-top: 10px;
-    }
+  }
 
-    .deskdiv1 img {
-      margin-left: 75px;
-      display: inline-block;
-    }
+  .deskdiv1 img {
+    margin-left: 75px;
+    display: inline-block;
+  }
 
-      .deskdiv2 {
-        background: #3563E9;
-        border: 2px solid #3563E9;
-        border-radius: 24px;
-        color: #fff;
-    }
+  .deskdiv2 {
+    background: #3563E9;
+    border: 2px solid #3563E9;
+    border-radius: 24px;
+    color: #fff;
+  }
 
-    .deskdiv2 h1 {
-        margin: 24px;
-        font-weight: bold;
-        font-size: 30px;
-    }
+  .deskdiv2 h1 {
+    margin: 24px;
+    font-weight: bold;
+    font-size: 30px;
+  }
 
-    .deskdiv2 p {
-        margin-left: 24px;
-    }
+  .deskdiv2 p {
+    margin-left: 24px;
+  }
 
-    .deskdiv2 button {
+  .deskdiv2 button {
     height: 50px;
     width: 123px;
     background: #54A6FF;
@@ -597,68 +607,68 @@
     font-weight: bold;
     margin-bottom: 30px;
     margin-top: 10px;
-    }
+  }
 
-    .deskdiv2 img {
-      margin-left: 75px;
-      display: inline-block;
-    }
+  .deskdiv2 img {
+    margin-left: 75px;
+    display: inline-block;
+  }
 
-    .desksec1 {
-      margin-left: 40px;
-      margin-top: 40px;
-      margin-bottom: 20px;
-    }
+  .desksec1 {
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
 
-    .deskdivgeneral {
-      display: flex;
-      grid-row: 1fr 1fr 1fr;
-    }
+  .deskdivgeneral {
+    display: flex;
+    grid-row: 1fr 1fr 1fr;
+  }
 
-    .desk1 {
-      display: flex;
-    }
+  .desk1 {
+    display: flex;
+  }
 
-    .desktime {
+  .desktime {
     display: flex;
     gap: 50px;
     box-shadow: 10px 10px 10px 10px #ECE5E5;
     margin-left: 34px;
     border: 2px solid white;
     border-radius: 5px;
-    }
+  }
 
-    .desk2 {
-      display: flex;
-      margin-left: 150px;
-    }
+  .desk2 {
+    display: flex;
+    margin-left: 150px;
+  }
 
-    .desk3{
+  .desk3 {
     margin-left: 220px;
-    }
+  }
 
-    .dbutton1 {
-     height: 50px;
+  .dbutton1 {
+    height: 50px;
     width: 45px;
     background: #3563E9;
     border: 2px solid #3563E9;
     border-radius: 5px;
     color: #fff;
-    font-weight: bold; 
+    font-weight: bold;
     box-shadow: 5px 5px 5px 5px whitesmoke;
-    }
+  }
 
-    .desktime1 {
-      display: flex;
-      margin-left: 3px;
-      gap: 50px;
-      box-shadow: 10px 10px 10px 10px #ECE5E5;
-      margin-left: 34px;
-      border: 2px solid white;
+  .desktime1 {
+    display: flex;
+    margin-left: 3px;
+    gap: 50px;
+    box-shadow: 10px 10px 10px 10px #ECE5E5;
+    margin-left: 34px;
+    border: 2px solid white;
     border-radius: 5px;
-    }
+  }
 
-   .d2 {
+  .d2 {
     border-right: 1px solid gray;
   }
 
@@ -668,7 +678,7 @@
 
   .d4 {
     border-right: 1px solid gray;
- }
+  }
 
   .d6 {
     border-right: 1px solid gray;
@@ -680,30 +690,30 @@
 
   .d8 {
     border-right: 1px solid gray;
- }
+  }
 
-   .d1 {
+  .d1 {
     font-weight: bold;
     font-size: 19px;
     margin-top: 5px;
     margin-left: 21px;
   }
 
-   .deskitem2 {
+  .deskitem2 {
     display: flex;
     margin-left: 50px;
     color: gray;
     font-size: 21px;
- }
+  }
 
- .deska1 {
+  .deska1 {
     text-decoration: none;
     margin-left: 1500px;
- }
+  }
 
- .deskitem2 h5 {
-  margin-left: 34px;
- }
+  .deskitem2 h5 {
+    margin-left: 34px;
+  }
 
   .desksec3 {
     display: flex;
@@ -711,15 +721,15 @@
     gap: 65px;
     margin-bottom: 49px;
     margin-top: 20px;
- }
+  }
 
-.desksec3a {
+  .desksec3a {
     box-shadow: 17px 17px 17px 17px #ECE5E5;
     border-radius: 29px;
     margin-top: 11px;
- }
+  }
 
- .desksec3a button {
+  .desksec3a button {
     height: 50px;
     width: 145px;
     background: #3563E9;
@@ -747,12 +757,13 @@
     vertical-align: top;
   }
 
-    .img1p {
+  .img1p {
     color: gray;
   }
-    .img1 {
+
+  .img1 {
     margin-left: 45px;
-    margin-top: 45px; 
+    margin-top: 45px;
   }
 
   .mobilep {
@@ -760,14 +771,14 @@
     font-weight: bold;
     margin-left: 40px;
   }
-  
+
   .mobiledash {
     text-decoration: line-through;
     color: gray;
     font-weight: lighter;
   }
 
-   h5 {
+  h5 {
     color: gray;
     font-size: 21px;
     font-weight: lighter;
@@ -783,14 +794,14 @@
     gap: 7%;
   }
 
-   .deskimg1 {
+  .deskimg1 {
     margin-left: 45px;
-    margin-top: 45px; 
+    margin-top: 45px;
     display: flex;
     gap: 27px;
   }
 
-    .showmore {
+  .showmore {
     height: 50px;
     width: 145px;
     background: #3563E9;
@@ -801,113 +812,113 @@
     font-weight: bold;
     margin-bottom: 30px;
     margin-top: 10px;
-   }
+  }
 
-   .deskshowmore {
+  .deskshowmore {
     display: flex;
     gap: 35%;
     margin-top: 24px;
     justify-items: center;
-   }
+  }
 
-   .showmorep {
+  .showmorep {
     color: gray;
     font-size: 24px;
     font-weight: 400;
-   }
+  }
 
-   .deskend1 h1 {
+  .deskend1 h1 {
     color: #3563E9;
     font-size: 34px;
     font-weight: bold;
-   }
+  }
 
-   .deskend1 {
+  .deskend1 {
     margin-left: 40px;
-   }
+  }
 
-   .mobileend1 p {
+  .mobileend1 p {
     color: gray;
     font-weight: lighter;
-   }
+  }
 
-   .mobilelastnav {
+  .mobilelastnav {
     display: flex;
     gap: 30%;
     margin-left: 40px;
-   }
+  }
 
-   .n1 ul {
+  .n1 ul {
     list-style: none;
     color: gray;
     font-weight: lighter;
-   }
+  }
 
-   .n1 ul li {
+  .n1 ul li {
     margin-top: 10px;
-   }
+  }
 
-   .mnavd1 h2 {
+  .mnavd1 h2 {
     margin-left: 45px;
-   }
+  }
 
-    .n2 ul {
+  .n2 ul {
     list-style: none;
     color: gray;
     font-weight: lighter;
-   }
+  }
 
-   .n2 ul li {
+  .n2 ul li {
     margin-top: 10px;
-   }
+  }
 
-   .mnavd3 h2 {
+  .mnavd3 h2 {
     margin-left: 35px;
-   }
+  }
 
-    .n3 ul {
+  .n3 ul {
     list-style: none;
     color: gray;
     font-weight: lighter;
-   }
+  }
 
-   .n3 ul li {
+  .n3 ul li {
     margin-top: 10px;
-   }
+  }
 
-   .mnavd3 {
+  .mnavd3 {
     margin-left: 40px;
     margin-top: 20px;
-   }
+  }
 
-   .mobilefooter {
-   text-align: right;
-   margin-left: 40px;
-   }
+  .mobilefooter {
+    text-align: right;
+    margin-left: 40px;
+  }
 
-   .navpandt li {
+  .navpandt li {
     text-align: right;
     list-style: none;
-   }
+  }
 
-   .mobile2022 {
+  .mobile2022 {
     margin-left: 40px;
     margin-bottom: 20px;
     font-weight: bold;
     margin-top: 10px;
-   }
+  }
 
-   .footerline {
+  .footerline {
     margin-left: 40px;
     color: gray;
-   }
+  }
 
-   .navpandt {
+  .navpandt {
     display: flex;
     font-weight: bold;
     margin-bottom: 20px;
     margin-top: 10px;
-   margin-left: 1320px;
-   gap: 90px;
-   }
- }
+    margin-left: 1320px;
+    gap: 90px;
+  }
+}
