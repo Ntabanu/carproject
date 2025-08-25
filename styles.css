@@ -9,7 +9,7 @@
   }
 
   body {
-    background: #F6F7F9;
+    background: #f6f7f9;
   }
 
   header {
@@ -33,7 +33,7 @@
 
   .mobilesearchbox {
     border: 1px solid gray;
-    box-shadow: 10px 10px 10px 10px #ECE5E5;
+    box-shadow: 10px 10px 10px 10px #ece5e5;
     padding: 4px;
     width: 587px;
     border-radius: 6px;
@@ -41,11 +41,11 @@
   }
 
   .mobilemenu {
-    box-shadow: 1px 1px 1px 1px #ECE5E5;
+    box-shadow: 1px 1px 1px 1px #ece5e5;
   }
 
   .mobileitem1 {
-    background: #54A6FF;
+    background: #54a6ff;
     margin-left: 20px;
     border: 5px;
     border-radius: 13px;
@@ -87,7 +87,7 @@
 
   .mobiletiming {
     display: flex;
-    box-shadow: 10px 10px 5px 5px #ECE5E5;
+    box-shadow: 10px 10px 5px 5px #ece5e5;
     gap: 30px;
   }
 
@@ -127,7 +127,7 @@
 
   .mobiletiming1 {
     display: flex;
-    box-shadow: 10px 10px 5px 10px #ECE5E5;
+    box-shadow: 10px 10px 5px 10px #ece5e5;
     gap: 30px;
   }
 
@@ -167,7 +167,7 @@
   }
 
   .mobilesec3a {
-    box-shadow: 17px 17px 17px 17px #ECE5E5;
+    box-shadow: 17px 17px 17px 17px #ece5e5;
     border-radius: 29px;
     margin-top: 11px;
   }
@@ -226,7 +226,7 @@
   }
 
   .mobilesec3a {
-    box-shadow: 17px 17px 17px 17px #ECE5E5;
+    box-shadow: 17px 17px 17px 17px #ece5e5;
     border-radius: 29px;
     margin-top: 11px;
   }
@@ -292,7 +292,7 @@
   }
 
   .mobilecar1 {
-    box-shadow: 10px 10px 10px 10px #ECE5E5;
+    box-shadow: 10px 10px 10px 10px #ece5e5;
     border-radius: 30px;
     margin-left: 40px;
     margin-right: 40px;
@@ -530,11 +530,11 @@
   }
 
   .desktopsearchbar {
-    border: 1px solid #ECE5E5;
+    border: 1px solid #ece5e5;
   }
 
   header {
-    border: 1px solid #ECE5E5;
+    border: 1px solid #ece5e5;
   }
 
   .desktopitem1 {
@@ -545,8 +545,8 @@
   }
 
   .deskdiv1 {
-    background: #54A6FF;
-    border: 2px solid #54A6FF;
+    background: #54a6ff;
+    border: 2px solid #54a6ff;
     border-radius: 24px;
     color: #fff;
   }
@@ -599,8 +599,8 @@
   .deskdiv2 button {
     height: 50px;
     width: 123px;
-    background: #54A6FF;
-    border: 2px solid #54A6FF;
+    background: #54a6ff;
+    border: 2px solid #54a6ff;
     margin-left: 28px;
     border-radius: 5px;
     color: #fff;
@@ -632,7 +632,7 @@
   .desktime {
     display: flex;
     gap: 50px;
-    box-shadow: 10px 10px 10px 10px #ECE5E5;
+    box-shadow: 10px 10px 10px 10px #ece5e5;
     margin-left: 34px;
     border: 2px solid white;
     border-radius: 5px;
@@ -662,7 +662,7 @@
     display: flex;
     margin-left: 3px;
     gap: 50px;
-    box-shadow: 10px 10px 10px 10px #ECE5E5;
+    box-shadow: 10px 10px 10px 10px #ece5e5;
     margin-left: 34px;
     border: 2px solid white;
     border-radius: 5px;
@@ -724,7 +724,7 @@
   }
 
   .desksec3a {
-    box-shadow: 17px 17px 17px 17px #ECE5E5;
+    box-shadow: 17px 17px 17px 17px #ece5e5;
     border-radius: 29px;
     margin-top: 11px;
   }
